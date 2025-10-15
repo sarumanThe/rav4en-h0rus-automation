@@ -1,6 +1,3 @@
-Perfeito 😎 — aqui está o **README completo em Markdown**, pronto para copiar e colar, com **todos os detalhes do script, atalhos, plano de treino e descrição do repo**:
-
-````markdown
 # 🧠 Vim Moderno — Configuração por srhorus
 
 **Este repo servirá para demonstrar as minhas adaptações com ArchLinux**, incluindo melhorias de produtividade no Vim e atalhos personalizados.
