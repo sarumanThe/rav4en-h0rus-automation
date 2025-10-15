@@ -202,11 +202,3 @@ vim ~/vim_treino.txt
 * [Vim Official Documentation](https://vimhelp.org/)
 * [Gruvbox Theme](https://github.com/morhetz/gruvbox)
 
-```
-
----
-
-Se você quiser, posso criar **uma versão em Markdown tipo cheatsheet visual**, mostrando **todos os atalhos do seu Vim moderno**, pronta para abrir dentro do Vim ou imprimir para treino rápido.  
-
-Quer que eu faça isso?
-```
